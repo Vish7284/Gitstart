@@ -1,1 +1,1 @@
-console.log("First git code"); 
+console.log("i love github");
